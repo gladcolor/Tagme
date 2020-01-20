@@ -10,3 +10,6 @@ Fox example, 10,000 street view images need to be classified as House, Departmen
 3. Tips:
   1) The use can decide show the tag-key table not not.
   
+
+
+![](imgs/tagme.jpg)
