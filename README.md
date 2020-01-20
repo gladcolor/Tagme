@@ -11,5 +11,5 @@ Fox example, 10,000 street view images need to be classified as House, Departmen
   1) The use can decide show the tag-key table not not.
   
 
-
+The UI of Tagme shoule looks like this:
 ![](imgs/tagme.jpg)
